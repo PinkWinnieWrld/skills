@@ -1,4 +1,4 @@
-# skills
+# skills  By:winniedapooh
 
 qb-skills
 A complete skill progression system for QBCore servers, featuring:
