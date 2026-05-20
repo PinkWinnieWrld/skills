@@ -9,7 +9,7 @@ Config.Gain = {
     shooting = 0.2    -- shooting
 }
 
-Config.TickInterval = 3000 -- ms
+Config.TickInterval = 30000 -- ms
 
 Config.Decay = {
     interval = 60 * 60 * 1000, -- every 1 hour
@@ -20,7 +20,7 @@ Config.Decay = {
         shooting = 0.1
     }
 }
-
+--Here is where you will config your gym
 Config.Gym = {
     price = 500,
     duration = 7 * 24 * 60 * 60 -- 7 days (seconds)
